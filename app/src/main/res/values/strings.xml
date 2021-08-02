@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_save">Save</string>
+    <string name="action_register_short">Register</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="halo_teman">Halo, Teman</string>
+    <string name="daftarkan">Daftarkan diri anda dan mulai gunakan layanan kami segera</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="home">Home</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="detail_barang">Detail Barang</string>
+    <string name="edit_barang">Edit Barang</string>
+    <string name="add_barang">Add Barang</string>
+    <string name="kode_barang">Kode Barang</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="harga_barang">Harga Barang</string>
+    <string name="satuan_barang">Satuan Barang</string>
+    <string name="status_barang">Status Barang</string>
+    <string name="register_sukses">Register berhasil silahkan Login</string>
+</resources>
