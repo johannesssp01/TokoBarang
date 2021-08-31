@@ -48,7 +48,6 @@ interface EndPoint {
         @Field("status_barang") status_barang: String,
     ) : Response<ItemsResponse>
 
-
     @FormUrlEncoded
     @POST("item/delete")
     suspend fun deleteBarang(
@@ -58,7 +57,6 @@ interface EndPoint {
 
     @FormUrlEncoded
     @POST("item/search")
-    //@Headers("No-Authentication: true")
     suspend fun searchBarang(
         @Header("Authorization") token: String,
         @Field("kode_barang") kode_barang: String
